@@ -1,0 +1,5 @@
+201715108|jnovaes|Joaquina Nascimento Novaes|inf2006|66|/home/alunos/jnovaes
+201714199|aoliveira|Ana Souza Oliveira|inf2005|64|/home/alunos/aoliveira
+201718150|procha|Pedro Cavalcanti Rocha|inf2001|25|/home/alunos/procha
+201710183|jsouza|Jose Barros Souza|inf2001|33|/home/alunos/jsouza
+201715137|maraujo|Marisa Cavalcanti Araujo|inf2000|19|/home/alunos/maraujo
